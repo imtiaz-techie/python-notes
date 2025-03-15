@@ -1,0 +1,7 @@
+print(6+4)
+print(6-4)
+print(6*4)
+print(6/4)
+print(6%4)
+print(10//4) #it takes floor(floor division)
+print(5**3)#it means 5 repeat in three times(expotential)
